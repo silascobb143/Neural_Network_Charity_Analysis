@@ -28,7 +28,7 @@ The feature variables for this project were centered around application. Specifi
 
 ![github](app.PNG)
 
-Compiling, Training, and Evaluating the Model
+ # Compiling, Training, and Evaluating the Model:
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 We started out by running two layers with eighty neurons while selecting the ReLu network model.  The reason for choosing this particular mode is because the main advantage of using the ReLU function over other activation functions is that it does not activate all the neurons at the same time.
@@ -36,5 +36,7 @@ We started out by running two layers with eighty neurons while selecting the ReL
 Were you able to achieve the target model performance?
 We were not able to achieve the desired target of 75% performance.  He highest mark we hit was 74.02% and our average fell below that number.
 
-What steps did you take to try and increase model performance?
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation
+![github](examp2.PNG)
+
+# Summary:
+This project helped further the knowledge and understanding of the data set we were provide.  While we did not reach our desired performance target of 75%. If we were to try and reach that target next time we may want to try another preformance model to help achieve that as the ReLU did not quite get there.
